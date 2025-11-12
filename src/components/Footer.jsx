@@ -25,7 +25,7 @@ function Footer() {
                     <p className="text-gray-400 text-sm">{t("footer_company")}</p>
                 </div>
 
-                {/* Social Icons */}
+                {/* Icons */}
                 <div className="flex justify-center md:justify-start space-x-4 mt-6 md:mt-0">
                     <a href="#" className="text-white hover:text-[#2acfcf]"><FaFacebookF /></a>
                     <a href="#" className="text-white hover:text-[#2acfcf]"><FaTwitter /></a>
